@@ -49,8 +49,8 @@ fun quadraticRootProduct(a: Double, b: Double, c: Double): Double {
  * Пример главной функции
  */
 fun main() {
-    val rezult = sqr(7)
-    println("7 * 7 = $rezult")
+    val rezult = sqr(9)
+    println("9 * 9 = $rezult")
 }
 
 /**
